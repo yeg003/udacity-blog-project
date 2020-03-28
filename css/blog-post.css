@@ -38,6 +38,7 @@
     color: #363940;
     width: 300px;
     line-height: 1.7;
+
 }
 
 .author-icon{
@@ -53,8 +54,6 @@
 .recent-post{
     text-decoration: underline;
 }
-
-
 
 /* Media Queries */
 
@@ -88,9 +87,13 @@
 
     .sidebar{
         border-left: 1px solid #f0f0f0;
-        height: 500px;
+        height: 650px;
         padding-left: 30px;
         width: 100%;
     }
 
+    .amsterdam-sidebar{
+        width: 2000px;
+    }
+    
 }
